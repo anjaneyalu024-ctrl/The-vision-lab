@@ -1,0 +1,1 @@
+export default function Home() {\n  return (\n    <div>\n      <h1>Welcome to Universal Vision Lab</h1>\n      <p>Your premium creative studio.</p>\n    </div>\n  );\n}\n
